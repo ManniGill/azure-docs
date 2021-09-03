@@ -34,9 +34,9 @@ The following diagram shows the basic steps you must follow when you transfer a 
 
 1. Prepare for the transfer
 
-1. Transfer the Azure subscription to a different directory
+1. Transfer the Azure subscription to a different directory.
 
-1. Re-create resources in the target directory such as role assignments, custom roles, and managed identities
+1. Re-create resources in the target directory such as role assignments, custom roles, and managed identities.
 
     ![Transfer subscription diagram](./media/transfer-subscription/transfer-subscription.png)
 
